@@ -159,6 +159,11 @@ nav a#openup {
   font-size: 2rem;
 }
 
+section#entertainment {
+  background: url(../img/section-bg.jpg) no-repeat bottom/cover;
+  padding: 10rem 0;
+}
+
 /*Media Queries*/
 @media screen and (max-width: 580px) {
   .hide-on-small {
