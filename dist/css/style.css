@@ -293,3 +293,9 @@ footer .footer-bottom {
     display: none;
   }
 }
+
+@media screen and (max-height: 580px) {
+  #showcase p.lead {
+    display: none;
+  }
+}
